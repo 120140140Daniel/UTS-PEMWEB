@@ -1,0 +1,10 @@
+/* Tambahan gaya untuk Halaman Formulir */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
